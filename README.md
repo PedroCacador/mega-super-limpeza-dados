@@ -53,5 +53,16 @@ Este projeto trata, padroniza e valida todas essas informações, deixando o Dat
    - Impressão no console de um relatório final com estatísticas do processo
 ---
 
-## 📁 Estrutura do Projeto
+## 🚀 Como Executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/PedroCacador/mega-super-limpeza-dados.git
+cd mega-super-limpeza-dados
+
+--
+
+## ✨ Autor
+
+Desenvolvido por [Pedro Caçador](https://github.com/PedroCacador) 🤝  
 
