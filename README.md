@@ -51,8 +51,6 @@ Este projeto trata, padroniza e valida todas essas informações, deixando o Dat
 
 6. **Geração de Relatório**
    - Impressão no console de um relatório final com estatísticas do processo
-   - (Opcional) Criação de arquivo `relatorio_limpeza.txt` com o resumo da limpeza
-
 ---
 
 ## 📁 Estrutura do Projeto
