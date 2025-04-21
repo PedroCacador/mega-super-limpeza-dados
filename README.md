@@ -61,11 +61,28 @@ Este projeto trata, padroniza e valida todas essas informações, deixando o Dat
 ```bash
 git clone https://github.com/PedroCacador/mega-super-limpeza-dados.git
 cd mega-super-limpeza-dados
+```
+2. Crie um ambiente virtual
+```bash
+python -m venv venv
+```
 
-pip install -r requirements.txt|
-
+Ative o ambiente virtual:
+```bash
+# Windows
+venv\Scripts\activate
+```
+3. Instale as dependências
+```bash
+pip install -r requirements.txt
+```
+4. Execute o script principal
+```bash
 python limpeza_dados.py
 ```
+💡 Importante:
+Certifique-se de que o arquivo vendas_modificado.csv está dentro da pasta Dirtyfile/.
+O arquivo limpo será salvo automaticamente como vendas_limpo.csv no mesmo diretório.
 
 ---
 
