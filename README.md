@@ -53,6 +53,8 @@ Este projeto trata, padroniza e valida todas essas informações, deixando o Dat
    - Impressão no console de um relatório final com estatísticas do processo
 ---
 
+---
+
 ## 🚀 Como Executar
 
 1. Clone o repositório:
@@ -60,7 +62,12 @@ Este projeto trata, padroniza e valida todas essas informações, deixando o Dat
 git clone https://github.com/PedroCacador/mega-super-limpeza-dados.git
 cd mega-super-limpeza-dados
 
---
+pip install -r requirements.txt|
+
+python limpeza_dados.py
+```
+
+---
 
 ## ✨ Autor
 
